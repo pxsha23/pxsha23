@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Piyusha! 👋  
+🚀 Tech Enthusiast | Developer 
 
-<!--
-**pxsha23/pxsha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently exploring Flutter & Full-Stack Web Development.
+🌱 I’m currently learning write clean otimized code to enhance my projects and skills.  
+👯 Open to collaborating on Flutter & MERN projects.  
+🤝 I’m looking for help with game development and advanced backend optimizations to create scalable and high-performance applications. 
 
-Here are some ideas to get you started:
+📫 Reach me at: katepiyusha@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+https://www.linkedin.com/in/piyusha-kate-4722342ba/
+
+### 🛠️ Languages & Tools:  
+C | Java | Python | Flutter | React | Node.js | MySQL | MongoDB | Firebase | Basic Web Development
+
+✨ Let's build something amazing together! 🚀  
