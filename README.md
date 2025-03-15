@@ -8,8 +8,10 @@ Hi, I'm Piyusha! 👋
 
 📫 Reach me at: katepiyusha@gmail.com 
 
-Connect with me:
-https://www.linkedin.com/in/piyusha-kate-4722342ba/
+🌐 Connect with me:  
+<a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/piyusha-kate-4722342ba/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ### 🛠️ Languages & Tools:  
 C | Java | Python | Flutter | React | Node.js | MySQL | MongoDB | Firebase | Basic Web Development
