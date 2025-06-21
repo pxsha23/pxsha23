@@ -14,4 +14,4 @@ Hi, I'm Piyusha!👋
 🛠️ Languages & Tools:
 C | Java | Python | Flutter | React | Node.js | MySQL | MongoDB | Firebase | Basic Web Development  
 
-✨ Let's build something amazing together! 🚀  
+✨ Let's collaborate & build something amazing together! 🚀  
